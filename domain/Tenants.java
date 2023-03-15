@@ -17,6 +17,7 @@ public class Tenants {
 
     public String getLastname() {
         return lastname;
+
     }
 
     public String getRoomnumber() {

@@ -31,8 +31,9 @@ class TenantsTest {
     @Test
     public void testDisablingTest() {
         String str = "Sibusiso";
-        int length =  str.length();
-        Assertions.assertEquals(8,length);
+        int length = str.length();
+        Assertions.assertEquals(8, length);
+
 
     }
 
